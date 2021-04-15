@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+/*basic reset*/
+* {margin: 0; padding: 0;}
+html {
+	height: 100%;
+	/*Image only BG fallback*/
+	
+	/*background = gradient + image pattern combo*/
+	/* background:  
+		/*linear-gradient(rgba(196, 102, 0, 0.6), rgba(155, 89, 182, 0.6));*/
+		 /* linear-gradient(rgba(206, 10, 85, 0.6), rgba(235, 101, 12, 0.6)) !important;  */ 
+         
+}
+
+body {
+	font-family: montserrat, arial, verdana;
+    /* background: 
+		/*linear-gradient(rgba(196, 102, 0, 0.6), rgba(155, 89, 182, 0.6));*/
+		/* linear-gradient(rgba(105, 83, 91, 0.6), rgba(235, 101, 12, 0.6)) !important; */ 
+    background: white !important;     
+    
+}
+
+.navbar {
+    background-color:rgb(175, 6, 85) !important;
+}
+
+.navbar-brand {
+    font-weight: bold !important;
+}
+
+
+
+.card-4 {
+    
+    background: white !important; ;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+}
+
+
+
+
+@media (max-width: 767px) {
+    .card-4 .card-body {
+        padding: 50px 40px;
+    }
+}
+
+
+
+.p-t-130 {
+    padding-top: 80px;
+}
+.p-b-100 {
+    padding-bottom: 300px;
+}
+.page-wrapper {
+    min-height: 50vh;
+}
+
+.wrapper {
+    margin: 0 auto;
+}
+
+
+.wrapper--w680 {
+    max-width: 500px;
+}
+
