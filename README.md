@@ -1,4 +1,4 @@
-#Food Donation System
+# Food Donation System
 
 - About 20% of the food prepared in restaurants is thrown away every day. It is very common to watch excess food from these restaurants, marriages, and other such events go to garbage without thought. 
 - Needless to say, this food that goes to trash could serve to fill the hunger of the unfed and starved children, the poor and homeless, when collected and distributed efficiently.
