@@ -1,6 +1,5 @@
 #Food Donation System
 
-##Motivation
 - About 20% of the food prepared in restaurants is thrown away every day. It is very common to watch excess food from these restaurants, marriages, and other such events go to garbage without thought. 
 - Needless to say, this food that goes to trash could serve to fill the hunger of the unfed and starved children, the poor and homeless, when collected and distributed efficiently.
 - This application aims to provide this very service, where excess food from restaurants will be collected and catered to those in need, to organizations that feed them,free of cost.
@@ -10,7 +9,7 @@
 
 
 
-##Modules
+## Modules
 - Sign Up Module
 - Sign In Module
 - Forgot Password Module
@@ -23,10 +22,10 @@
 
 
 ## Front End and Back End Description
-###Front End 
+### Front End 
 - HTML5
 - CSS(Cascading Style Sheets)
 - Bootstrap 
-###Back End 
+### Back End 
 - PHP 
 - MySQL
